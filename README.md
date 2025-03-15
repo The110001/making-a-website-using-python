@@ -1,2 +1,2 @@
-# practice-3
-the script takes a range from the user, then adds the current to the previous one until the last number in the range.
+# making a website using python
+as the title suggests, I am going to practice creating a website using python. I will first try to create some basic static websites using basic html code, then I will try to create a more dynamic website using python and add different aspects to the project.
